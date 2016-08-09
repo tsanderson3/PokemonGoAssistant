@@ -1,0 +1,1 @@
+# PokemonGoAssistant
